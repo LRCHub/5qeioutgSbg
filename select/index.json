@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "OVERLAY",
+  "base_artist": "小野大輔",
+  "createdAt": "2026-02-10T09:00:50.770398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overlay",
+      "artist": "Ásgeir",
+      "has_synced": true,
+      "path": "select/01_Overlay_Ásgeir.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Overlay",
+      "artist": "Briga",
+      "has_synced": true,
+      "path": "select/02_Overlay_Briga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Main Title Overlay",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/03_Main_Title_Overlay_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Overlay",
+      "artist": "Big Daddy Flash",
+      "has_synced": true,
+      "path": "select/04_Overlay_Big_Daddy_Flash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Twist and Shout (marching band overlay)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/05_Twist_and_Shout_(marching_band_overlay)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tasogare Overlay",
+      "artist": "Akatsuki Records",
+      "has_synced": false,
+      "path": "select/06_Tasogare_Overlay_Akatsuki_Records.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OVERLAY",
+      "artist": "小野大輔",
+      "has_synced": false,
+      "path": "select/pl_01_OVERLAY_小野大輔.txt"
+    }
+  ]
+}
